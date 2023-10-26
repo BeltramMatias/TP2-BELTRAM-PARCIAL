@@ -1,0 +1,11 @@
+{
+  "name": "tp2_parcial_beltram_matias",
+  "version": "1.0.0",
+  "description": "Parcial_TP2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
